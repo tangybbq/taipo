@@ -1,0 +1,3 @@
+[submodule "moby-project"]
+	path = moby-project
+	url = https://github.com/Hyneman/moby-project
